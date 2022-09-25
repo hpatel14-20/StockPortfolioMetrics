@@ -110,35 +110,3 @@ print('Portfolio Beta:', portfolio['Weighted Beta'].sum())
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Calculate ALPHA of portfolio
-
-
-
-# With all of that aside, I will assist you in finding the following details about the stocks:
-# 1. Average annual returns based on historical data
-# 2. Annual Returns on a yearly basis since the day the company got listed (to check volatility)
-# 3. How individual stocks in the portfolio are related to each other (correlation)
-# 4. Risk associated with the stock (deviation in average returns)
-# 5. How stocks are performing with respect to the index like S&P 500 (Beta calculator)
-
-
-
-
-
-
-
-
